@@ -2,9 +2,8 @@
 	display:flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
-}
-.item{
 	flex: 1 1 auto;
 	margin: 10px
 }
+
 /* Your CSS Code here. */
